@@ -1,6 +1,7 @@
 [Link to the Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDgyZDhhNjktMGNhMS00Yzk4LTg0YTgtYWE1NjcyN2FhNzc3IiwidCI6ImE2N2Q5MzI2LWE4NjYtNDcyNC05ODQ3LTYwYWY5OGNkYTg5NyJ9)
 
 **BUILT AN INTERACTIVE POWERBI DASHBOARD FOR CHURN RATE ANALYSIS**
+
 **1. ETL process in SQL Server**  
 **2. Data Cleaning in SQL Server**  
 **3. Power BI Transformations**  
@@ -10,6 +11,7 @@
 
 
 ** These are the some measures that i created**
+
 CHURN RATE
 ![Screenshot 2025-03-06 124040](https://github.com/user-attachments/assets/d129913c-5e0c-44dd-94d4-a5ab091af921)
 
